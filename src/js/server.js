@@ -1,7 +1,7 @@
 /*
 
 This file is running the actual server for now.
-
+Paste into browser: localhost:3000
 */
 const express = require('express');
 const path = require('path');
