@@ -6,7 +6,7 @@ TECH:
     - JS
 *** CURRENT TASKS ***
 1:  - Index page - 
-2:     - UI -
+2:     - UI -      
 
 Jack
  - Design (logo, general stuff)
@@ -39,4 +39,4 @@ Andrius
  - Database?
 
 Shay
- - Sort out the install of express and react
+ - Sort out the install of express and react 
