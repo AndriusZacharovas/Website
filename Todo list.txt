@@ -39,3 +39,4 @@ Andrius
  - Database?
 
 Shay
+ - Sort out the install of express and react
