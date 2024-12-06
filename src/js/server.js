@@ -3,8 +3,6 @@
 This file is running the actual server for now.
 
 */
-
-
 const express = require('express');
 const path = require('path');
 const app = express();
