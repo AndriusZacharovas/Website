@@ -36,6 +36,8 @@ Tech:
 Oscar
 
 Andrius
- - Database?
+Database?
+
+No problem , just need to know what the website is for and what data scheme I need to develop.
 
 Shay
